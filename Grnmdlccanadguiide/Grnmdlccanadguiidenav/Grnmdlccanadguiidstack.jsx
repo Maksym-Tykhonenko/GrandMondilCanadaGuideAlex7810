@@ -47,7 +47,7 @@ const Grnmdlccanadguiidstack = () => {
 
   const ONESIGNAL_KEY = `a1f304e7-226c-4e34-8103-c238183da376`;
 
-  const TARGET_DATA = new Date(2026, 4, 1, 8, 8, 0);
+  const TARGET_DATA = new Date(2026, 4, 7, 8, 8, 0);
 
   useEffect(() => {
     const fetchData = async () => {
